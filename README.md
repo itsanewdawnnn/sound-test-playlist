@@ -6,7 +6,7 @@ Developed using HTML, CSS (Bootstrap 5), and JavaScript, the application dynamic
 
 The interface features a clean **glassmorphism-inspired design**, optimized for both desktop and mobile use, ensuring an elegant and modern listening evaluation experience.
 
-**Live Demo:** [Sound Test Playlist Web Url](https://itsanewdawnnn.github.io/sound-test-playlist/)
+**Live Demo:** [Sound Test Playlist](https://itsanewdawnnn.github.io/sound-test-playlist/)
 
 ## 🎼 About Sound Test Playlist
 Sound Test Playlist is a personal project, intended as a simple yet visually appealing tool for assessing how various songs perform across different playback systems — including headphones, speakers, and studio monitors.
