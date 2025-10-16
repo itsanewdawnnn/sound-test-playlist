@@ -1,29 +1,49 @@
-🎧 Audiophile Sound Test
+🎧 Sound Test Playlist — Interactive Audio Evaluation Web App
 
-Audiophile Sound Test is a modern, responsive, and minimalist web application designed for testing audio quality across different playback systems — including headphones, speakers, and studio monitors.
+📖 Overview
+This repository contains the source code for Sound Test Playlist, a responsive and minimalist web application built to evaluate and visualize perceived sound quality across different songs.
+Developed using HTML, CSS (Bootstrap 5), and JavaScript, the application dynamically presents a curated list of tracks with subjective scores for instrumental clarity, vocal quality, and bass response.
 
-This project visually represents subjective listening scores for various songs, covering aspects such as instrumental clarity, vocal performance, and bass depth. The layout adapts dynamically to any screen size and features a smooth light/dark theme toggle built with a glassmorphism-inspired design.
+The interface features a clean glassmorphism-inspired design, optimized for both desktop and mobile use, ensuring an elegant and modern listening evaluation experience.
 
-🧩 Features
+🎼 About Sound Test Playlist
+Sound Test Playlist is a personal project developed by Kahfi, intended as a simple yet visually appealing tool for assessing how various songs perform across different playback systems — including headphones, speakers, and studio monitors.
 
-🎵 Song Rating Grid — Interactive and responsive layout displaying multiple test tracks.
+Each track includes an interactive visual score representation, allowing users to compare and reflect on different sound profiles.
+The project combines functionality with refined aesthetics, demonstrating a focus on user experience and interface clarity.
 
-🌗 Light/Dark Mode Toggle — Switch themes seamlessly with smooth transitions.
+💡 Purpose
 
-📊 Dynamic Score Bars — Visually represent subjective sound scores for Instrumental, Vocal, and Bass.
+To serve as a visual and interactive reference for evaluating song sound quality.
 
-🔗 One-Click Access — Open YouTube tracks directly or copy their links effortlessly.
+To provide an intuitive and elegant interface for subjective listening comparisons.
 
-💎 Glassmorphism Design — Soft, translucent aesthetic with subtle depth and shadowing.
+To showcase modern front-end design using clean, framework-free implementation.
 
-📱 Fully Responsive — Automatically adjusts layout across mobile, tablet, and desktop screens.
+To act as a portfolio project demonstrating responsive web design and UI/UX principles.
 
-🛠️ Tech Stack
+🧩 Core Features
 
-HTML5 — Semantic and accessible markup.
+🎵 Dynamic Song Grid — Displays test tracks with visual scoring for instrumental, vocal, and bass.
 
-CSS3 (Bootstrap 5 + Custom Styling) — Clean glassmorphism theme with smooth hover effects.
+🌗 Theme Toggle — Switch between light and dark modes with smooth transitions.
 
-JavaScript (Vanilla) — Dynamic rendering, clipboard functionality, and theme management.
+🔗 Quick Actions — Open songs directly on YouTube or copy the link instantly.
 
-Bootstrap Icons — Lightweight and scalable vector icons.
+💎 Glassmorphism Design — Subtle transparency, depth, and soft edges for a premium aesthetic.
+
+📱 Fully Responsive Layout — Optimized for all screen sizes and devices.
+
+💾 Technology Stack
+
+HTML5 — Clean and semantic structure.
+
+CSS3 + Bootstrap 5 — Responsive grid and elegant visual styling.
+
+JavaScript (Vanilla) — Handles rendering, theme control, and interactive elements.
+
+Bootstrap Icons — Lightweight and consistent iconography.
+
+⚠️ Disclaimer
+All scores displayed in this project are subjective personal opinions, not official assessments or representations.
+Sound quality perception may vary depending on individual hearing, equipment type, and listening environment.
